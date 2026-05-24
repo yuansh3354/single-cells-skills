@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single Cell Methods"
+  short_description: "Single-cell methods and defaults"
+  default_prompt: "Use $single-cell-methods to choose methods, parameter defaults, and special-case analysis branches for my single-cell or spatial transcriptomics study."

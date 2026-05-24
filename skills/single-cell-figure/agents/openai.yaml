@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single Cell Figure"
+  short_description: "Single-cell figures and palettes"
+  default_prompt: "Use $single-cell-figure to design my scRNA-seq or spatial figure panels, assign stable hex-coded palettes, and generate journal-ready single-cell visual logic."

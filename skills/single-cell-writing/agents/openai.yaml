@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single Cell Writing"
+  short_description: "Single-cell manuscript writing"
+  default_prompt: "Use $single-cell-writing to turn my single-cell figures, markers, and Chinese notes into Results, Methods, legends, and abstract text."
